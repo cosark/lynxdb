@@ -97,6 +97,10 @@ lynxdb query '
 `from` are source-level search sugar: `status>=500`, `"connection reset"`, `error`,
 and `field=*` all desugar to typed LynxFlow predicates.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/LynxDB/)
+
 ## LynxFlow In 60 Seconds
 
 LynxFlow v2 is the only query language in LynxDB. The old SPL2 runtime was
